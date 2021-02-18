@@ -1,0 +1,9 @@
+br\com\arthur\produto\produto\dominio\produto\ProdutoServiceImpl.class
+br\com\arthur\produto\produto\web\produto\ProdutoController.class
+br\com\arthur\produto\produto\infra\ProdutoRepository.class
+br\com\arthur\produto\produto\dominio\produto\Produto.class
+br\com\arthur\produto\produto\ProdutoApplication.class
+br\com\arthur\produto\produto\ServletInitializer.class
+br\com\arthur\produto\produto\dominio\produto\ProdutoService.class
+br\com\arthur\produto\produto\web\produto\ProdutoForm.class
+br\com\arthur\produto\produto\web\produto\ProdutoDto.class
